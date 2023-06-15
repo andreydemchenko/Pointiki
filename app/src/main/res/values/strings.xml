@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pointiki</string>
+    <string name="btn_back">Back</string>
+    <string name="organization_enter_title">My organization is</string>
+    <string name="organization_enter_description">Select your school / section</string>
+    <string name="phone_enter_title">My number is</string>
+    <string name="phone_enter_description">We will send a text with a verification code</string>
+    <string name="get_started_terms_conditions">By Creating Account you Accept\n<u>Terms of Use</u> and <u>Privacy Policy</u>.</string>
+    <string name="btn_continue">CONTINUE</string>
+    <string name="code_enter_title">My code is</string>
+    <string name="btn_resend">Resend</string>
+    <string name="btn_skip">Skip</string>
+    <string name="enter_password_hint">Enter password</string>
+    <string name="enter_name_title">My name is</string>
+    <string name="enter_name_warning">Pay attention: you will be able to change your name only by contacting the support service.</string>
+    <string name="enter_name_hint">First and last name</string>
+    <string name="sex_choose_title">I am a</string>
+    <string name="photo_select_title">Add your photo</string>
+    <string name="agreement_title">We’re glad that you have joined us!</string>
+    <string name="agreement_warning">Please follow these rules</string>
+    <string name="rule_1">Be yourself.</string>
+    <string name="explanation_1">Make sure your name and photo are true to who you are.</string>
+    <string name="rule_2">Be honest.</string>
+    <string name="explanation_2">Do not attempt to falsify the results of express-tests. This may result in suspension or termination of account and criminal liability.</string>
+    <string name="rule_3">Be responsible.</string>
+    <string name="explanation_3">In case of a positive test, send a notification to all partners you may have infected. The app provides a simple and safe way to do it.</string>
+    <string name="rule_4">Be respectful.</string>
+    <string name="explanation_4">We does not tolerate harassment or bullying of any kind, and users who engage in these behaviors will have their account suspended.</string>
+    <string name="btn_agree">AGREE</string>
+    <string name="successful_registration">Congratulations!</string>
+    <string name="trouble_sign_in">Trouble signing in?</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604871912980",
+    "project_id": "pointiki",
+    "storage_bucket": "pointiki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604871912980:android:9211c88cb8cb92f1df8101",
+        "android_client_info": {
+          "package_name": "com.example.pointiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604871912980-ukq8496ka526prkg83jifd0l2ogbs47m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pointiki",
+            "certificate_hash": "f86d83aa82e6bb02062dbf0584fc27b65303c943"
+          }
+        },
+        {
+          "client_id": "604871912980-8nkh7mvnied7j4ua41gkcmeohi6f5o9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQP0fT16mpN-3QxHTnNuWTyhHb8SW-ITw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604871912980-8nkh7mvnied7j4ua41gkcmeohi6f5o9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
